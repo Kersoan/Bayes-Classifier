@@ -1,4 +1,4 @@
-# Bayes-Classifier
+# Ex-02--Bayes-Classifier
 ## Aim:
 To Construct a Bayes Classifier to classiy iris dataset using Python.
 ## Algorithm:
@@ -23,8 +23,8 @@ Output:
 
 ## Program:
 ```
-Developed by: Kadin Samson L
-Reg no: 212221230044
+Developed by: KERSOAN P
+Reg no: 212221230050
 ```
 ```
 import numpy as np
@@ -53,7 +53,4 @@ print("Accuracy:",accuracy)
 ![i-1](https://github.com/swemurali/Bayes-Classifier/assets/94165336/2bc52164-524e-4ac9-8e6f-4f093910d097)
 
 ## Result:
-Hence, Bayes classifier for iris dataset is implemented successfully
-
-
-
+Hence, Bayes classifier for iris dataset is implemented successfully.
